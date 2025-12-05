@@ -1,0 +1,3 @@
+CS101,Introduction to Python
+MA101,Calculus I
+PH101,Introduction to Physics
